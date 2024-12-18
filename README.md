@@ -1,0 +1,2 @@
+# Spring Boot + Redis + RabbitMQ
+Ce projet a été conçu pour démontrer l'utilisation combinée de RabbitMQ et Redis dans une application Spring Boot. L'objectif est de traiter un numéro transmis via une API REST, de calculer son carré, et de stocker ces données (numéro au carré et date d'insertion) dans Redis tout en utilisant RabbitMQ comme système de messagerie intermédiaire.
